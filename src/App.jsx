@@ -84,7 +84,7 @@ export default function App() {
         <div className={`card fade ${showCard ? "show" : ""}`}>
           <p>I’ve had a little crush on you for a while now 😳</p>
           <p>Valentine’s Day felt like the perfect moment to ask...</p>
-
+          <p> I dare you to say no(jk jk)</p>
           <button
             onClick={() =>
               window.open("https://forms.gle/gp8EwCzznMmuF6Z89", "_blank")
